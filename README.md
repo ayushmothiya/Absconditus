@@ -10,7 +10,7 @@ Absconditus is a user-friendly file search engine that
 can run on any ideal computer device.
 It has three modes of operation:
 - Default provided disks("C:\","D:\","E:\")
-<img src="Images/default drives.png" alt="your_alt_text" style="width: auto; height: auto;">
+<img src="Images/default drives.png" alt="your_alt_text" align="center" style="width: auto ; height: auto;">
 <details>
   <summary>Table of Contents</summary>
   <ol>
